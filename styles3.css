@@ -1,0 +1,28 @@
+.entete {
+    background-color: #04d5ee;
+    height: 60px;
+}
+
+.menuup {
+    background-color: #48ff00;
+    height: 50%;
+    width: 60px;
+    float: left;
+}
+
+.menudown {
+    background-color: #b634c7;
+    height: 50%;
+    width: 60px;
+    float: left;
+}
+
+.corps {
+    background-color: #f7f712;
+    height: 100%;
+}
+
+.footer {
+    background-color: #8ff712;
+    height: 60px
+}
