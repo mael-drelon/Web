@@ -51,5 +51,5 @@
    </tr>
    </table>
 </xmp>
-   <p><a href=index.php>Retour</a></p>
+   <p><a href=DossierPHP.php>Retour</a></p>
    </body>

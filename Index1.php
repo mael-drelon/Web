@@ -34,5 +34,6 @@ if (isset($_GET["LeChiffre"]) && !empty($_GET["LeChiffre"])){
 <?php
 }
 ?>
+<p><a href=DossierPHP.php>Retour</a></p>
 </body>
 </html>

@@ -21,4 +21,4 @@
         echo "La session de ".$_POST["zone"]." est actif";   
     }
     ?>
-    <p><a href=index.php>Retour</a></p>
+     <p><a href=DossierPHP.php>Retour</a></p>
