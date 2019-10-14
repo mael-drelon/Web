@@ -1,15 +1,11 @@
-.entete {
+.bleu {
     background-color: #04d5ee;
-    height: 20px;
-    width: 100%
+    height: 5%;
+    width: 100%;
 }
 
-.corps {
-    background-color: #f7f712;
-    height: 100%;
-}
-
-.footer {
-    background-color: #8ff712;
-    height: 20px
+.red {
+    background-color: #f10a0a;
+    height: 5%;
+    width: 100%;
 }
